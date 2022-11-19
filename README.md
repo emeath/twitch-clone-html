@@ -8,6 +8,8 @@ The main objective is practice frontend skills.
 
 The project was developed using the old methodology: buildign a webpage using table structure.
 
+***Base course: Devplay - Um Novo Jeito De Programar***
+
 ## Result
 
 ![Image of the html page from this project](img/index.png)
